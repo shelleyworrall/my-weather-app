@@ -1,0 +1,78 @@
+body {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  color: #1a0dab;
+  font-size: 28px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+H1 {
+  font-family: "Inconsolata", monospace;
+  color: blue;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: purple;
+  font-size: 15px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+label input {
+  display: block;
+}
+
+.weatherspec {
+  color: blueviolet;
+  text-align: center;
+  font-size: 17px;
+}
+
+.day {
+  font-size: 12px;
+  color: black;
+}
+
+.symbol {
+  font-size: 20px;
+  color: blueviolet;
+}
+
+.next5 {
+  text-align: center;
+}
+
+.temp {
+  font-size: 20px;
+  color: gray;
+}
+
+.current {
+  font-size: 20px;
+  color: gray;
+  font: center;
+}
+.button {
+  display: block;
+  margin: 0 auto;
+  background: green;
+  color: white;
+}
+.bordered {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 40px;
+  max-width: 600px;
+}
+
